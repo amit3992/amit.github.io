@@ -1,5 +1,5 @@
 # home
-My personal webpage.  
+Source code for my personal webpage.  
 [Here](https://amit3992.github.io/home/)  
   
 12/10 would offer a new job.
